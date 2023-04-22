@@ -1,0 +1,13 @@
+{
+  "name": "mastadon",
+  "type": 1,
+  "description": "Manage your nor.dev mastadon presence",
+  "options": [
+    {
+      "name": "url",
+      "type": 3,
+      "description": "The URL for your canonical mastadon profile",
+      "required": true
+    }
+  ]
+}
