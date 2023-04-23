@@ -2,5 +2,5 @@ name = "mastadon-alias-worker"
 main = "src/index.ts"
 compatibility_date = "2023-04-21"
 kv_namespaces = [
-  { binding = "ALIAS_DB", preview_id = "b9ea65fffcca4c028efa14ceda27211a", id = "552545ee2b004047a9200e7c897d1022" }
+  { binding = "DB", preview_id = "b9ea65fffcca4c028efa14ceda27211a", id = "552545ee2b004047a9200e7c897d1022" }
 ]
